@@ -1,0 +1,20 @@
+#logo{
+	border-radius: 200px;
+}
+
+header{
+	margin-bottom: 40px;
+	padding: 20px;
+}
+
+content{
+	padding: 20px;
+}
+
+aside{
+	margin-right: 40px;
+}
+
+main ul{
+	list-style: none;
+}
